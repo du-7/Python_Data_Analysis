@@ -71,8 +71,7 @@ def calculate_demografic_data(print_data = True):
         'min_work_hours': min_work_hours,
         'rich_percentage': rich_percentage,
         'highest_earning_country': highest_earning_country,
-        'highest_earning_country_percentage':
-        'highest_earning_country_percentage,
+        'highest_earning_country_percentage': highest_earning_country_percentage,
         'top_IN_occupation': top_IN_occupation
     }
 
